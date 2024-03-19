@@ -7,12 +7,19 @@ This was also an opportunity to use PostgreSQL, which I was not previously famil
 Please follow the links below for each weekly challenge.
 ## The Challenges
 [Week #1 - Danny's Diner]()
+
 [Week #2 - Pizza Runner]()
+
 [Week #3 - Foodie-Fi]()
+
 [Week #4 - Data Bank]()
+
 [Week #5 - Data Mart]()
+
 [Week #6 - Clique Bait]()
+
 [Week #7 - Balance Tree Clothing Co.]()
+
 [Week #8 - Fresh Segments]()
 
 
